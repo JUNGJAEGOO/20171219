@@ -1,4 +1,4 @@
-docs_dir: /home1/irteam/deploy/readthedocs/user_builds/toast-document-kr/checkouts/master/docs
+
 extra_javascript: [readthedocs-data.js]
 pages:
 - TOAST Cloud:
@@ -85,42 +85,6 @@ pages:
         Guide.md}
     - {Release Notes: Analytics/Log & Crash Search/ko/Release Notes.md}
 - Game:
-  - Gamebase:
-    - {Overview: Game/Gamebase/ko/Overview.md}
-    - {Getting Started: Game/Gamebase/ko/Getting Started.md}
-    - Android Developer`s Guide:
-      - {Getting Started: Game/Gamebase/ko/aos-started.md}
-      - {Initialization: Game/Gamebase/ko/aos-initialization.md}
-      - {Auth: Game/Gamebase/ko/aos-authentication.md}
-      - {Purchase: Game/Gamebase/ko/aos-purchase.md}
-      - {Push: Game/Gamebase/ko/aos-push.md}
-      - {UI: Game/Gamebase/ko/aos-ui.md}
-    - iOS Developer`s Guide:
-      - {Getting Started: Game/Gamebase/ko/ios-started.md}
-      - {Initialization: Game/Gamebase/ko/ios-initialization.md}
-      - {Auth: Game/Gamebase/ko/ios-authentication.md}
-      - {Purchase: Game/Gamebase/ko/ios-purchase.md}
-      - {Push: Game/Gamebase/ko/ios-push.md}
-      - {UI: Game/Gamebase/ko/ios-ui.md}
-    - Unity Developer`s Guide:
-      - {Getting Started: Game/Gamebase/ko/unity-started.md}
-      - {Initialization: Game/Gamebase/ko/unity-initialization.md}
-      - {Auth: Game/Gamebase/ko/unity-authentication.md}
-      - {Purchase: Game/Gamebase/ko/unity-purchase.md}
-      - {Push: Game/Gamebase/ko/unity-push.md}
-      - {UI: Game/Gamebase/ko/unity-ui.md}
-    - {Server Developer`s Guide: Game/Gamebase/ko/Server Developer`s Guide.md}
-    - Operator Guide:
-      - {Operating indicator: Game/Gamebase/ko/operating-indicator.md}
-      - {App: Game/Gamebase/ko/app.md}
-      - {Operation: Game/Gamebase/ko/operation.md}
-      - {Push: Game/Gamebase/ko/push.md}
-      - {Member: Game/Gamebase/ko/member.md}
-      - {Ban: Game/Gamebase/ko/ban.md}
-      - {Purchase(IAP): Game/Gamebase/ko/purchase.md}
-      - {Management: Game/Gamebase/ko/management.md}
-    - {Error Codes: Game/Gamebase/ko/error-codes.md}
-    - {Release Notes: Game/Gamebase/ko/Release Notes.md}
   - Leaderboard:
     - {Overview: Game/Leaderboard/ko/Overview.md}
     - {Getting Started: Game/Leaderboard/ko/Getting Started.md}
@@ -281,4 +245,4 @@ pages:
 - Downloads:
   - {Latest version: Download.md}
 site_name: Toast Cloud Document
-theme_dir: ./toast
+theme_dir: toast
