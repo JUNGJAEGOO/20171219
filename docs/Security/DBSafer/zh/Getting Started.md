@@ -1,1 +1,0 @@
-## Security > DBSafer > Getting Started
