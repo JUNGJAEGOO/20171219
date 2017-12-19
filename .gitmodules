@@ -1,0 +1,188 @@
+[submodule "toast"]
+	path = toast
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Toast_Document_Theme.git
+	branch = master
+[submodule "docs/Analytics/App Analytics"]
+	path = docs/Analytics/App Analytics
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/App-Analytics.git
+	branch = master
+[submodule "docs/Analytics/Log & Crash Search"]
+	path = docs/Analytics/Log & Crash Search
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Log-Crash-Search.git
+	branch = master
+[submodule "docs/Common/Address Search"]
+	path = docs/Common/Address Search
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Address-Search.git
+	branch = master
+[submodule "docs/Common/IAP"]
+	path = docs/Common/IAP
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/IAP.git
+	branch = master
+[submodule "docs/Common/Launching"]
+	path = docs/Common/Launching
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Launching.git
+	branch = master
+[submodule "docs/Common/Mobile Test"]
+	path = docs/Common/Mobile Test
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Mobile-Test.git
+	branch = master
+[submodule "docs/Contents/CDN"]
+	path = docs/Contents/CDN
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/CDN.git
+	branch = master
+[submodule "docs/Contents/Image"]
+	path = docs/Contents/Image
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Image.git
+	branch = master
+[submodule "docs/Game/Leaderboard"]
+	path = docs/Game/Leaderboard
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Leaderboard.git
+	branch = master
+[submodule "docs/Game/Real Time Multiplayer"]
+	path = docs/Game/Real Time Multiplayer
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Real-Time-Multiplayer.git
+	branch = master
+[submodule "docs/Infrastructure/Compute"]
+	path = docs/Infrastructure/Compute
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Compute.git
+	branch = master
+[submodule "docs/Infrastructure/Monitoring"]
+	path = docs/Infrastructure/Monitoring
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Monitoring.git
+	branch = master
+[submodule "docs/Infrastructure/Object Storage"]
+	path = docs/Infrastructure/Object Storage
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Object-Storage.git
+	branch = master
+[submodule "docs/Notification/Push"]
+	path = docs/Notification/Push
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Push.git
+	branch = master
+[submodule "docs/Notification/SMS"]
+	path = docs/Notification/SMS
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/SMS.git
+	branch = master
+[submodule "docs/Open Source/ToastUI Chart"]
+	path = docs/Open Source/ToastUI Chart
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/ToastUI-Chart.git
+	branch = master
+[submodule "docs/Open Source/ToastUI Editor"]
+	path = docs/Open Source/ToastUI Editor
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/ToastUI-Editor.git
+	branch = master
+[submodule "docs/Open Source/ToastUI Grid"]
+	path = docs/Open Source/ToastUI Grid
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/ToastUI-Grid.git
+	branch = master
+[submodule "docs/Open Source/CAPTCHA"]
+	path = docs/Open Source/CAPTCHA
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/CAPTCHA.git
+	branch = master
+[submodule "docs/Security/AppGuard"]
+	path = docs/Security/AppGuard
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/AppGuard.git
+	branch = master
+[submodule "docs/Security/CAPTCHA"]
+	path = docs/Security/CAPTCHA
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/CAPTCHA.git
+	branch = master
+[submodule "docs/Security/OTP"]
+	path = docs/Security/OTP
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/OTP.git
+	branch = master
+[submodule "docs/Security/Security Check"]
+	path = docs/Security/Security Check
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Security-Check.git
+	branch = master
+[submodule "docs/Security/Security Monitoring"]
+	path = docs/Security/Security Monitoring
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Security-Monitoring.git
+	branch = master
+[submodule "docs/Upcoming Products/API Gateway"]
+	path = docs/Upcoming Products/API Gateway
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/API-Gateway.git
+	branch = master
+[submodule "docs/Upcoming Products/Corporations Search"]
+	path = docs/Upcoming Products/Corporations Search
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Corporations-Search.git
+	branch = master
+[submodule "docs/Upcoming Products/CS and BBS"]
+	path = docs/Upcoming Products/CS and BBS
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/CS-BBS.git
+	branch = master
+[submodule "docs/Upcoming Products/Deploy"]
+	path = docs/Upcoming Products/Deploy
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Deploy.git
+	branch = master
+[submodule "docs/Upcoming Products/Event"]
+	path = docs/Upcoming Products/Event
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Event.git
+	branch = master
+[submodule "docs/Upcoming Products/Mal-URL Detector"]
+	path = docs/Upcoming Products/Mal-URL Detector
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Mal-URL-Detector.git
+	branch = master
+[submodule "docs/Upcoming Products/ROLE"]
+	path = docs/Upcoming Products/ROLE
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/ROLE.git
+	branch = master
+[submodule "docs/Upcoming Products/SimpleData"]
+	path = docs/Upcoming Products/SimpleData
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/SimpleData.git
+	branch = master
+[submodule "docs/Upcoming Products/Spell Checker"]
+	path = docs/Upcoming Products/Spell Checker
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Spell-Checker.git
+	branch = master
+[submodule "docs/Upcoming Products/WatchDog"]
+	path = docs/Upcoming Products/WatchDog
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/WatchDog.git
+	branch = master
+[submodule "docs/TOAST Cloud"]
+	path = docs/TOAST Cloud
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/TOAST-Cloud.git
+	branch = master
+[submodule "docs/Upcoming Products/DNSPlus"]
+	path = docs/Upcoming Products/DNSPlus
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/DNSPLUS.git
+	branch = master
+[submodule "docs/Open Source/Toast Haste"]
+	path = docs/Open Source/Toast Haste
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/HASTE.git
+	branch = master
+[submodule "docs/Upcoming Products/Mobile Device Info"]
+	path = docs/Upcoming Products/Mobile Device Info
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Mobile-Device-Info.git
+	branch = master
+[submodule "docs/Upcoming Products/Smart Downloader"]
+	path = docs/Upcoming Products/Smart Downloader
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Smart-Downloader
+	branch = master
+[submodule "docs/Notification/E-mail"]
+	path = docs/Notification/E-mail
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/E-mail.git
+	branch = master
+[submodule "docs/Notification/Alimtalk"]
+	path = docs/Notification/Alimtalk
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Alimtalk.git
+	branch = master
+[submodule "docs/Common/Maps"]
+	path = docs/Common/Maps
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Maps.git
+	branch = master
+[submodule "docs/Management/Managed"]
+	path = docs/Management/Managed
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Managed.git
+	branch = master
+[submodule "docs/Upcoming Products/RTCS"]
+	path = docs/Upcoming Products/RTCS
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/RTCS.git
+	branch = master
+[submodule "docs/Game/Gamebase"]
+	path = docs/Game/Gamebase
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/Gamebase.git
+	branch = master
+[submodule "docs/Upcoming Products/RDS"]
+	path = docs/Upcoming Products/RDS
+	url = https://choigo92:3fb62b9837e472ea0a70d9753f7fd2d6d7b079a8@github.nhnent.com/TOASTCLOUD-DOC/RDS.git
+	branch = master
