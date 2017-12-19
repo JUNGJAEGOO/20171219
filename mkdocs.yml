@@ -1,4 +1,4 @@
-
+docs_dir: /home1/irteam/deploy/readthedocs/user_builds/toast-document-kr/checkouts/master/docs
 extra_javascript: [readthedocs-data.js]
 pages:
 - TOAST Cloud:
@@ -245,4 +245,4 @@ pages:
 - Downloads:
   - {Latest version: Download.md}
 site_name: Toast Cloud Document
-theme_dir: toast
+theme_dir: ./toast
